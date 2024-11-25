@@ -10,10 +10,10 @@ Soy un ávido investigador de varios temás academicos, desde economía hasta ge
 * [Información personal](#información-personal)
 
 ## Publicaciones y proyectos
-### 📄 Publicaciones
-- [¿Cómo puede Cervecería Nacional implementar un canal efectivo de sus promociones mediante distribución indirecta de sus productos?](link al paper)
-- [¿En qué medida fueron convenientes las estrategias de desarrollo de mercado elaboradas por Tuenti al entrar al mercado ecutoriano de telecomunicaciones en el 2015?](link al paper)
-- [¿Hasta qué punto la variación del PIB de un pais puede usarse como herramienta para determinar su nivel de pobreza?](link al paper)
+### 📄 Publicaciones y Proyectos
+- [Análisis de Mercado Cerveceria Nacional](https://espolec-my.sharepoint.com/:b:/g/personal/nasierra_espol_edu_ec/EW4IHzBi0-lMg-wV4VwDauABxro-LSX2BcK_ggLlOR9aUg?e=ja1efv)
+- [Análisis de inducción al mercado ecuatoriano por Tuenti en el año 2015](https://espolec-my.sharepoint.com/:b:/g/personal/nasierra_espol_edu_ec/ESE4pu9puYRCpy5lWabuQ6wBBkiGA6bnmg-zpi2IhNAo0g?e=RLO81N)
+- [PIB en la utilización como herramamienta para determinar el índice de pobreza](https://espolec-my.sharepoint.com/:b:/g/personal/nasierra_espol_edu_ec/ETucVGrmRaNPq4Y020bo7r8BrOd3qp6CMhOknBJssM1KKQ?e=qtoydC)
 
   
 ## Intereses

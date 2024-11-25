@@ -20,7 +20,7 @@ Soy un ávido investigador de varios temás academicos, desde economía hasta ge
 * [Lista de tus intereses]
 
   ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Nicolás Alejandro Sierra de Janon
+* Ocupación: Estudiante & Ayudante de cátedra
+* Lugar de residencia: Isla Santay 🏝️
+* Sitio web: https://nasdj21.github.io/curriculum/
